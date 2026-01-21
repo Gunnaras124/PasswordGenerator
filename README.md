@@ -1,3 +1,4 @@
+<img width="796" height="626" alt="Screenshot 2026-01-14 185731" src="https://github.com/user-attachments/assets/74441a2e-9bea-4d09-af94-8555e29d6745" />
 🔐 PasswordEncrypter.com
 
 (Definitely a real website. Trust me.)
